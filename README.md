@@ -92,3 +92,10 @@ The dashboard includes an embeddable tracking snippet that:
 - Add authentication and access control around the dashboard API.
 - Use PostgreSQL for higher-volume environments.
 - Enrich country, region, and city via a proxy or GeoIP service for fully automatic geographic reporting.
+Screenshort:
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/e6119a70-8e1e-4531-80b8-06ec5b045d91" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/b0eeafa8-dccd-4027-b492-3307717da6aa" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/cbb104c8-86b4-4027-8f3e-4960d3b9eb95" />
+
+
+
